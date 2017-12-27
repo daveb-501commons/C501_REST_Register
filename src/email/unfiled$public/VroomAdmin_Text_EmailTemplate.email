@@ -1,0 +1,11 @@
+There is a new support request.
+
+Please investigate and respond to the user.
+
+First Name: {!Lead.FirstName} 
+Last Name: {!Lead.LastName}
+
+Email: {!Lead.Email}
+
+Message:
+{!Lead.Message__c}

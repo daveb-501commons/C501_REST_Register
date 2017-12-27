@@ -1,0 +1,4 @@
+.sfdx/
+mdapi_output_dir*
+temp/
+packaged/
